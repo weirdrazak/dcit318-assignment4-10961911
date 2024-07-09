@@ -32,6 +32,23 @@ namespace LoginScreen
             string username = UsernameTextBox.Text;
             string password = PasswordTextBox.Text;
             MessageBox.Show($"Username: {username}\nPassword: {password}", "Login Info");
+            UsernameTextBox.Clear();
+            PasswordTextBox.Clear();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void UsernameTextBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void PasswordTextBox_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

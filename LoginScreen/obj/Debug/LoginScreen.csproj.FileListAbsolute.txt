@@ -8,3 +8,13 @@ C:\Users\USER\Desktop\dcit318-assignment4-10961911\LoginScreen\obj\Debug\LoginSc
 C:\Users\USER\Desktop\dcit318-assignment4-10961911\LoginScreen\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\dcit318-assignment4-10961911\LoginScreen\obj\Debug\LoginScreen.exe
 C:\Users\USER\Desktop\dcit318-assignment4-10961911\LoginScreen\obj\Debug\LoginScreen.pdb
+D:\c sharp\dcit318-assignment4-10961911\LoginScreen\bin\Debug\LoginScreen.exe.config
+D:\c sharp\dcit318-assignment4-10961911\LoginScreen\bin\Debug\LoginScreen.exe
+D:\c sharp\dcit318-assignment4-10961911\LoginScreen\bin\Debug\LoginScreen.pdb
+D:\c sharp\dcit318-assignment4-10961911\LoginScreen\obj\Debug\LoginScreen.csproj.AssemblyReference.cache
+D:\c sharp\dcit318-assignment4-10961911\LoginScreen\obj\Debug\LoginScreen.Form1.resources
+D:\c sharp\dcit318-assignment4-10961911\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+D:\c sharp\dcit318-assignment4-10961911\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+D:\c sharp\dcit318-assignment4-10961911\LoginScreen\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
+D:\c sharp\dcit318-assignment4-10961911\LoginScreen\obj\Debug\LoginScreen.exe
+D:\c sharp\dcit318-assignment4-10961911\LoginScreen\obj\Debug\LoginScreen.pdb

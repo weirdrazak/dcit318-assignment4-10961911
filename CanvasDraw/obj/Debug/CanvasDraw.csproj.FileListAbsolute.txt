@@ -1,0 +1,10 @@
+D:\c sharp\dcit318-assignment4-10961911\CanvasDraw\bin\Debug\CanvasDraw.exe.config
+D:\c sharp\dcit318-assignment4-10961911\CanvasDraw\bin\Debug\CanvasDraw.exe
+D:\c sharp\dcit318-assignment4-10961911\CanvasDraw\bin\Debug\CanvasDraw.pdb
+D:\c sharp\dcit318-assignment4-10961911\CanvasDraw\obj\Debug\CanvasDraw.csproj.AssemblyReference.cache
+D:\c sharp\dcit318-assignment4-10961911\CanvasDraw\obj\Debug\CanvasDraw.Form1.resources
+D:\c sharp\dcit318-assignment4-10961911\CanvasDraw\obj\Debug\CanvasDraw.Properties.Resources.resources
+D:\c sharp\dcit318-assignment4-10961911\CanvasDraw\obj\Debug\CanvasDraw.csproj.GenerateResource.cache
+D:\c sharp\dcit318-assignment4-10961911\CanvasDraw\obj\Debug\CanvasDraw.csproj.CoreCompileInputs.cache
+D:\c sharp\dcit318-assignment4-10961911\CanvasDraw\obj\Debug\CanvasDraw.exe
+D:\c sharp\dcit318-assignment4-10961911\CanvasDraw\obj\Debug\CanvasDraw.pdb
